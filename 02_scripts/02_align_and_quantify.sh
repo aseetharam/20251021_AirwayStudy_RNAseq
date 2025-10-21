@@ -8,6 +8,8 @@
 # 2. Quantifies the number of reads mapping to genes using featureCounts.
 #
 # It assumes the QC and trimming script has been run successfully.
+# this script version is 1.0
+# final version
 
 # --- Configuration ---
 # Stop script on any error
